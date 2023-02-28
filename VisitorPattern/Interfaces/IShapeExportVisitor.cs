@@ -1,6 +1,4 @@
-using VisitorPattern.Models;
-
-namespace VisitorPattern.Interfaces
+namespace VisitorPattern
 {
     public interface IShapeExportVisitor
     {

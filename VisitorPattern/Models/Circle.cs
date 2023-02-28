@@ -1,6 +1,4 @@
-using VisitorPattern.Interfaces;
-
-namespace VisitorPattern.Models
+namespace VisitorPattern
 {
     public class Circle : IShape
     {

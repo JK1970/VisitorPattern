@@ -1,4 +1,4 @@
-namespace VisitorPattern.Interfaces
+namespace VisitorPattern
 {
     public interface IShape
     {
