@@ -1,4 +1,6 @@
-namespace VisitorPattern
+using VisitorPattern.Interfaces;
+
+namespace VisitorPattern.Models
 {
     public class CsvExportVisitor : IShapeExportVisitor
     {

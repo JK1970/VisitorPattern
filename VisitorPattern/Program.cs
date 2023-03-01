@@ -1,4 +1,7 @@
-﻿namespace VisitorPattern
+﻿using VisitorPattern.Interfaces;
+using VisitorPattern.Models;
+
+namespace VisitorPattern
 {
     public class Program
     {
